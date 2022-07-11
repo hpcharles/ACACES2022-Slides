@@ -4,5 +4,5 @@ This repository contains the slides used during the ACACES 2022 summer
 school, organized by https://www.HiPEAC.net
 
 * Monday 11 July
-  * (Introduction Slides / Course presentation)[2022-07-ACACES-HP-Charles-Intro.pdf]
-  * (1st course Hardware evolution)[2022-07-ACACES-HP-Charles-J1.pdf]
+  * [Introduction Slides / Course presentation](2022-07-ACACES-HP-Charles-Intro.pdf)
+  * [1st course Hardware evolution](2022-07-ACACES-HP-Charles-J1.pdf)
